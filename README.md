@@ -44,5 +44,5 @@
 
 <div>
   <!-- GitHub Metrics 자동 표시 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=taharma&show_icons=true&hide=stars&count_private=true" /> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=taharma&show_icons=true&hide=stars&count_private=true" /> --> 
 </div>

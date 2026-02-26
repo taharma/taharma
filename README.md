@@ -50,4 +50,8 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+
+  ![SCADA](https://img.shields.io/badge/SCADA-00599C?style=flat-square&logo=lighthouse&logoColor=white)
+  ![PLC](https://img.shields.io/badge/PLC-E32219?style=flat-square&logo=automationanywhere&logoColor=white)
+  ![IIS](https://img.shields.io/badge/IIS-0078D7?style=flat-square&logo=windows&logoColor=white)
 </div>
